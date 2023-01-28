@@ -2,7 +2,7 @@
 Author: Deziah Gayle
 Course: CSCI-135
 Instructor: Mike Z.; Genedy M
-Assignment: Lab1A
+Assignment: Lab1B
 
 Finding the smaller of three integers
 */
